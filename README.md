@@ -1,1 +1,0 @@
-# gitlab-nrw-wokshop
